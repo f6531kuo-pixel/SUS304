@@ -21,7 +21,6 @@ def comp(m=0, f=0, a=0, n=0, t=0, hfc=.095, nc=.55, water=0, name=''):
 if __name__ == '__main__':
     comp(m=35, n=30, hfc=.55, water=20, name='原配方')
     comp(m=46.1, f=4.6, n=2.8, name='現行')
-    comp(m=20, a=3.4, n=26, t=8, name='E1 硫酸鎂＋氟化鎂粉')
     comp(m=20, a=3.4, n=26, t=12, name='E2 硫酸鎂＋硫酸鋇')
     comp(m=12, a=2.4, n=26, t=20, name='E3 少鎂多鋇')
     comp(m=35, a=9, n=26, name='E4 硫酸鎂＋氟化氫銨')
