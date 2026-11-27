@@ -9,6 +9,8 @@
 - 問問題一次只給 2 題（手機看），每題：問題一句、選項、建議。
 - 使用者說「先暫停」：更新交接檔＋commit＋push 後停止。
 - 每完成一項就 commit＋push；成果同步一份到 Google Drive「SUS304 資料庫」資料夾。
+- **測試照片（2026-11-27 船主）**：船主傳來的白鐵片／配方測試照片，一律：①壓縮到 ≤3 MB（長邊 1600 px）存 `photos/日期_配方_內容.jpg`；②上傳 Drive「SUS304 資料庫」資料夾（不轉 Google 文件）；③在 Drive「E4 系列配方」總表最下方「測試照片」區加一列快速連結（=HYPERLINK，欄位：照片名稱／日期／說明）；④記進 `data/試驗紀錄.csv` 與交接檔。
+- **只照實際記錄**：設計目標值不可寫成實測值；船主給的數字照原樣記，不自行改。
 
 ## 二、Repo 結構
 ```
@@ -24,6 +26,7 @@ photos/                    試驗照片
 ```
 
 ## 三、Google Drive
+- 配方比對總表「E4 系列配方」（含黏度紀錄、測試照片連結）：1RKPuKw5i3fCia0pWYvHuP3meXNL6gAJH9KaIAJyfwOM
 - 資料夾「SUS304 資料庫」：1jPRDF3X6tDC2FUGQZ57i0vs8xSs_VKd-
 - 問答紀錄 Doc：1lDl_jH17LwyZXXenEnTksNLaBtkQIwKP78p94usJErQ
 - 配方試算表：1aq7-kwos2pnzhrFsrbtWccgZmXdPiuuafRxU_dqHhWI
