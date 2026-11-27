@@ -19,6 +19,7 @@ data/配方_甲基磺酸.csv      加甲基磺酸版本
 data/現行配方.csv、修正配方.csv  現行配方、E2–E5 修正配方（不用氟化鈉、氟化鎂粉）
 data/試驗紀錄.csv           小批試驗結果（試完填這裡）
 tools/配方計算.py           完全反應理論值計算
+photos/                    試驗照片
 ```
 
 ## 三、Google Drive
