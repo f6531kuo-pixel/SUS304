@@ -20,6 +20,6 @@ data/試驗紀錄.csv           小批試驗結果（試完填這裡）
 ```
 
 ## 三、Google Drive
-- 資料夾「SUS304 資料庫」：見交接檔第六節
+- 資料夾「SUS304 資料庫」：1jPRDF3X6tDC2FUGQZ57i0vs8xSs_VKd-
 - 問答紀錄 Doc：1lDl_jH17LwyZXXenEnTksNLaBtkQIwKP78p94usJErQ
 - 配方試算表：1aq7-kwos2pnzhrFsrbtWccgZmXdPiuuafRxU_dqHhWI
